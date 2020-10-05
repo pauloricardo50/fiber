@@ -113,7 +113,7 @@ Installation is done using the [`go get`](https://golang.org/cmd/go/#hdr-Add_dep
 go get github.com/gofiber/fiber/v2
 ```
 
-## 🎯 Features
+## 🎯 Features - News 
 
 - Robust [routing](https://docs.gofiber.io/routing)
 - Serve [static files](https://docs.gofiber.io/application#static)
